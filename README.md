@@ -8,7 +8,6 @@
 - [Virtual environments (pip, venv, uv, conda) and Docker](virtual_environments.md)
 - [Compilers vs Interpreters (and the Python case)](compilers_interpreters.md)
 - [Git and GitHub: basic workflow](git/git_github_basics.md)
-- [GitHub collaborative workflows (forks, PRs, code review)](git/github_workflows.md)
 
 ## Python basics
 
@@ -20,7 +19,6 @@
 ## Software Engineering Principles
 
 - [Basic concepts (SoC, SRP, Cohesion, Coupling)](software-engineering/software_engineering_basics.md)
-- [Spec-Driven Development and VS Code Workflow](software-engineering/sdd_basics.md)
 
 ## Python typing
 
@@ -36,8 +34,11 @@
 - [06: Real-world data analysis](modules/06_real_world_data_analysis.ipynb)
 - [07: Progressive architecture](modules/07_progressive_architecture.ipynb)
 
+## Agentic programming
+
+- [Github Copilot: use and customization](github-copilot.md)
+- [Spec-Driven Development and VS Code Workflow](software-engineering/sdd_basics.md)
+- [GitHub collaborative workflows (forks, PRs, code review)](git/github_workflows.md)
 
 ## [Project: Hockey Stats](https://github.com/avidaldo/hockey-stats)
 > Project including notes on software development workflows, deployment, and more.
-
-
